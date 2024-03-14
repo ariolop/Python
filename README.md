@@ -30,3 +30,8 @@ Para activar el entorno virtual:
 ```console
 .\Datos\Scripts\activate
 ```
+
+### Índice de archivos
+
+**Pandas**
+[text](./Python/script.py)
