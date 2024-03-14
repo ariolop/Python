@@ -23,4 +23,8 @@ Aunque ya viene creado, este sería el comando para crearlo:
 
 Para activar el entorno virtual:
 
+```python
+
+    print("Hola")
+```
 .\Datos\Scripts\activate
