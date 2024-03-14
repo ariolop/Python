@@ -2,8 +2,6 @@
 
 Las librerias usadas en los archivos usados son:
 
-
-
 - pandas
 - pyarrow 
     - lo pide "pandas"
@@ -12,3 +10,17 @@ Las librerias usadas en los archivos usados son:
 - numpy
 - matplotlib
 - seaborn
+
+### Descargar librerías
+
+`pip install -r .\requirements.txt`
+
+### Entorno virtual usado
+
+Aunque ya viene creado, este sería el comando para crearlo:
+
+`python -m venv datos`
+
+Para activar el entorno virtual:
+
+.\Datos\Scripts\activate
