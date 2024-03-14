@@ -1,16 +1,6 @@
-# Creamos entorno virtual de Python
-    # python -m venv datos
-
-# Activamos entorno virtual de Python
-    # .\Datos\Scripts\activate
-
-# Descargamos e instalamos librerías
-    # pip install -r .\requirements.txt
-
-# Librerías de Python
 pandas
-pyarrow # lo pide "pandas"
-openpyxl # sirve para generar un Excel a partir de un dataFrame( df.to_excel(...) )
+pyarrow
+openpyxl
 numpy
 matplotlib
 seaborn
