@@ -33,4 +33,4 @@ Para activar el entorno virtual:
 
 ### Índice de archivos
 
-- [**Pandas**](./Python/script.py)
+- [**Pandas**](./Python/pandas.py)
